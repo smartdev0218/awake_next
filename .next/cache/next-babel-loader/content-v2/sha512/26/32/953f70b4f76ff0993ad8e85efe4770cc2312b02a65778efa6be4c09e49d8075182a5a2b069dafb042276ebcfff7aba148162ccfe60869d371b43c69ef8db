@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default as Layout } from './main';","map":{"version":3,"sources":["E:/projects/4.23/awake-nextjs-refactored1/src/components/layout/index.ts"],"names":["default","Layout"],"mappings":"AAAA,SAASA,OAAO,IAAIC,MAApB,QAAkC,QAAlC","sourcesContent":["export { default as Layout } from './main'\r\n"]},"metadata":{},"sourceType":"module"}
